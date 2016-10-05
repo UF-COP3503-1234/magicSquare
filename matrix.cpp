@@ -121,4 +121,7 @@ int main() {
   checkSums(magicSquare3, size);
 
 
+cout << "adding changes for git hub";
+
+
 }
